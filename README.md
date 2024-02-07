@@ -1,2 +1,1 @@
-# Bet
-TODO
+The goal of this project is to collect data on football matches statistics. You can find the detailed description of the project and all necessary files on [kaggle](https://www.kaggle.com/datasets/leonidkiselev/football-matches-statistics). Here are some Jupyter Notebooks with code (parsing and preprocessing) and some intermediate .csv files. Complete data files are "matches_ultimate.csv" and "ratings_zip.zip", you can also find them on kaggle.
